@@ -11,6 +11,9 @@ A lightweight **BepInEx plugin** for *Escape Simulator 2* that helps locate hidd
 ## 🧩 Requirements
 - [BepInEx 5.x](https://github.com/BepInEx/BepInEx/releases)
 
+## 🧩 Download
+Grab the latest compiled DLL from the [Releases page](../../releases)
+
 ## ⚙️ Installation
 1. Install **BepInEx** into your game directory.
-2. Place the built `EscapeSimulator2_TokenTracer.dll` into: `/Escape Simulator 2/BepInEx/plugins/`
+2. Place the built/downloaded `EscapeSimulator2_TokenTracer.dll` into: `/Escape Simulator 2/BepInEx/plugins/`
