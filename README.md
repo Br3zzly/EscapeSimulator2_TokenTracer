@@ -1,6 +1,8 @@
 # Escape Simulator 2 - Token Tracer
 
 A lightweight **BepInEx plugin** for *Escape Simulator 2* that helps locate hidden tokens in both official and community rooms.
+<img width="2384" height="1064" alt="image" src="https://github.com/user-attachments/assets/4f1d2a3d-054f-40af-89c8-bdd0515999be" />
+
 
 ## ✨ Features
 - Draws bright green tracer lines from your camera to all token objects.
