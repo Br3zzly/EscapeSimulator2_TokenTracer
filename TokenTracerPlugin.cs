@@ -14,7 +14,7 @@ namespace EscapeSim2.TokenTracer
     [BepInPlugin("br3zzly.escapesim2.tokentracer", "Token Tracer", "1.0.0")]
     public class TokenTracerPlugin : BaseUnityPlugin
     {
-        private bool tracersEnabled = true;
+        private bool tracersEnabled = false;
         private Camera mainCamera;
 
         private static Texture2D lineTexture;
