@@ -7,8 +7,8 @@
     <ProjectGuid>{53DFEE92-6876-4816-852A-2267E9CB772E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EscapeSimulator2_TokenRecolor</RootNamespace>
-    <AssemblyName>EscapeSimulator2_TokenRecolor</AssemblyName>
+    <RootNamespace>EscapeSimulator2_TokenTracer</RootNamespace>
+    <AssemblyName>EscapeSimulator2_TokenTracer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
