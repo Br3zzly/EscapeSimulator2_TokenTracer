@@ -1,0 +1,23 @@
+# Build output
+/bin/
+/obj/
+/Release/
+/Debug/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# Unity/Steam library junk (if included)
+/packages/
+/Library/
+/Temp/
+/Logs/
+/BepInEx/cache/
+/BepInEx/plugins/*.pdb
+
+# OS files
+Thumbs.db
+*.DS_Store
